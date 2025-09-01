@@ -37,7 +37,7 @@ An **autonomous line-following robot** using an **Arduino Nano**, **TB6612FNG mo
 | **MUX SIG**     | A4                         |
 
 Sensor read order:  
-`{9,10,11,12,13,14,15,16,8,7,6,5,4,3,2,1}`
+{9,10,11,12,13,14,15,16,8,7,6,5,4,3,2,1}
 
 ---
 
@@ -51,6 +51,6 @@ Sensor read order:
 ---
 
 ## 🚀 Quick Start
-1. Clone the repo and upload the code to your **Arduino Nano**:
-   ```bash
-   git clone https://github.com/yourusername/line-follower-robot.git
+ Clone the repo and upload the code to your **Arduino Nano**:
+   bash
+   git clone https://github.com/Riththikkan/Smart-16-IR-Sensor-Array-Line-Tracking-Robot.git
